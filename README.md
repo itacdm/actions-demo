@@ -1,1 +1,1 @@
-# actions-demo
+Introduction to CI/CD concept
