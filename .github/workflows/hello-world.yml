@@ -1,4 +1,4 @@
-iname: Hello World Workflow
+name: Hello World Workflow
 on:
   push:
     branches: [ main ]
